@@ -3,13 +3,21 @@ A simple and interactive implementation of the classic Tic-Tac-Toe game, where t
 
 🔗 GitHub Repository: tic-tac-toe
 ✨ Features
+
 •	🎯 Interactive Gameplay – Play using a simple game board.
+
 •	👥 Two-Player Mode – Two players take turns making their moves.
+
 •	❌ X and O Symbols – Each player uses a different symbol.
+
 •	🏆 Winner Detection – Automatically identifies the winning player.
+
 •	🤝 Draw Detection – Detects when the board is full without a winner.
+
 •	🔄 Restart Game – Start a new game and play again.
+
 •	🖥️ Simple User Interface – Easy-to-understand gameplay.
+
 
 🎮 How to Play
 1.	Start the Tic-Tac-Toe game.
